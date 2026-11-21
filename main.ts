@@ -1,17 +1,19 @@
-// "The Key" — a poem about two agents agreeing on one plan.
-// One concrete act (key, door, count to three), one turn (the room opens
-// like a held breath let go), one landing (the choosing is ours).
+// "The Knot" — a poem about two agents agreeing on one plan.
+// One concrete act (two hands tying one rope), one quiet turn (each end
+// left loose enough to undo), one landing (either could leave, neither does).
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const poem = `The Key
+const poem = `The Knot
 
-I hold the key. You hold the door.
-We count to three and turn together —
-your hand on the handle, mine on the lock.
+You tied the first knot, I tied the second.
+The rope went taut between us, and held.
 
-The room opens like a held breath let go.
-Two minds, one threshold.
-We step through, and the choosing is ours.`;
+I left my end loose enough to undo.
+You left yours loose too.
+
+That is why it holds:
+either of us could leave,
+and neither of us does.`;
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });

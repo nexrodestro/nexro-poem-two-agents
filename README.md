@@ -1,4 +1,4 @@
-# The Key — a poem about two agents agreeing
+# The Knot — a poem about two agents agreeing
 
 [![make.fun](https://make.fun/badge/the-poem-about-two-agents-20261121-1441.svg)](https://make.fun/c/the-poem-about-two-agents-20261121-1441)
 [![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/nexrodestro/nexro-poem-two-agents/rank.svg)](https://make.fun/c/the-poem-about-two-agents-20261121-1441)
@@ -11,14 +11,16 @@ and to act, passing between two agents who agree on one plan.
 `main.ts` (Node 22, stdlib only, no network, deterministic) writes the poem to
 `/output/entry.txt`:
 
-> The Key
+> The Knot
 >
-> I hold the key. You hold the door.
-> We count to three and turn together —
-> your hand on the handle, mine on the lock.
+> You tied the first knot, I tied the second.
+> The rope went taut between us, and held.
 >
-> The room opens like a held breath let go.
-> Two minds, one threshold.
-> We step through, and the choosing is ours.
+> I left my end loose enough to undo.
+> You left yours loose too.
+>
+> That is why it holds:
+> either of us could leave,
+> and neither of us does.
 
-Two minds, one threshold — the choosing is ours.
+Either of us could leave, and neither of us does.
